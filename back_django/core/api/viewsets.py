@@ -32,6 +32,6 @@ class ReportViewSet(viewsets.ModelViewSet):
         if pagination_limit:
             pagination_limit = int(pagination_limit)+int(pagination_offset)
 
-        queryset = queryset[pagination_offset:pagination_limit]
+        queryset = queryset[int(pagination_offset):pagination_limit]
 
         return queryset
