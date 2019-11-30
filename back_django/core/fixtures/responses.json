@@ -1,0 +1,1602 @@
+[
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 1,
+      "author": 19,
+      "message": "The team colors are: green and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 1,
+      "author": 20,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 2,
+      "author": 19,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 2,
+      "author": 20,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 3,
+      "author": 19,
+      "message": "The team colors are: red, black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 3,
+      "author": 20,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 4,
+      "author": 19,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 4,
+      "author": 20,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 5,
+      "author": 19,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 5,
+      "author": 20,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 6,
+      "author": 1,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 6,
+      "author": 20,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 7,
+      "author": 1,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 7,
+      "author": 20,
+      "message": "The team colors are: blue, black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 8,
+      "author": 1,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 8,
+      "author": 20,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 9,
+      "author": 1,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 9,
+      "author": 20,
+      "message": "The team colors are: red and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 10,
+      "author": 1,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 10,
+      "author": 20,
+      "message": "The team colors are: garnet, green and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 11,
+      "author": 1,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 11,
+      "author": 2,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 12,
+      "author": 1,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 12,
+      "author": 2,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 13,
+      "author": 1,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 13,
+      "author": 2,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 14,
+      "author": 1,
+      "message": "The team colors are: red, blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 14,
+      "author": 2,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 15,
+      "author": 1,
+      "message": "The team colors are: green and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 15,
+      "author": 2,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 16,
+      "author": 2,
+      "message": "The team colors are: red, blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 16,
+      "author": 3,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 17,
+      "author": 2,
+      "message": "The team colors are: red and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 17,
+      "author": 3,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 18,
+      "author": 2,
+      "message": "The team colors are: green and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 18,
+      "author": 3,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 19,
+      "author": 2,
+      "message": "The team colors are: red and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 19,
+      "author": 3,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 20,
+      "author": 2,
+      "message": "The team colors are: red and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 20,
+      "author": 3,
+      "message": "The team is from Brazil."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 21,
+      "author": 3,
+      "message": "The team colors are: blue and garnet"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 21,
+      "author": 4,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 22,
+      "author": 3,
+      "message": "The team colors are: white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 22,
+      "author": 4,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 23,
+      "author": 3,
+      "message": "The team colors are: blue, red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 23,
+      "author": 4,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 24,
+      "author": 3,
+      "message": "The team colors are: red, black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 24,
+      "author": 4,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 25,
+      "author": 3,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 25,
+      "author": 4,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 26,
+      "author": 4,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 26,
+      "author": 5,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 27,
+      "author": 4,
+      "message": "The team colors are: yellow"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 27,
+      "author": 5,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 28,
+      "author": 4,
+      "message": "The team colors are: white and red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 28,
+      "author": 5,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 29,
+      "author": 4,
+      "message": "The team colors are: blue and garnet"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 29,
+      "author": 5,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 30,
+      "author": 4,
+      "message": "The team colors are: blue"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 30,
+      "author": 5,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 31,
+      "author": 5,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 31,
+      "author": 6,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 32,
+      "author": 5,
+      "message": "The team colors are: blue and red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 32,
+      "author": 6,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 33,
+      "author": 5,
+      "message": "The team colors are: green and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 33,
+      "author": 6,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 34,
+      "author": 5,
+      "message": "The team colors are: purple and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 34,
+      "author": 6,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 35,
+      "author": 5,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 35,
+      "author": 6,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 36,
+      "author": 6,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 36,
+      "author": 7,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 37,
+      "author": 6,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 37,
+      "author": 7,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 38,
+      "author": 6,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 38,
+      "author": 7,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 39,
+      "author": 6,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 39,
+      "author": 7,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 40,
+      "author": 6,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 40,
+      "author": 7,
+      "message": "The team is from Spain."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 41,
+      "author": 7,
+      "message": "The team colors are: red and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 41,
+      "author": 8,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 42,
+      "author": 7,
+      "message": "The team colors are: blue and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 42,
+      "author": 8,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 43,
+      "author": 7,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 43,
+      "author": 8,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 44,
+      "author": 7,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 44,
+      "author": 8,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 45,
+      "author": 7,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 45,
+      "author": 8,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 46,
+      "author": 8,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 46,
+      "author": 9,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 47,
+      "author": 8,
+      "message": "The team colors are: garnet"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 47,
+      "author": 9,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 48,
+      "author": 8,
+      "message": "The team colors are: blue and red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 48,
+      "author": 9,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 49,
+      "author": 8,
+      "message": "The team colors are: blue and red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 49,
+      "author": 9,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 50,
+      "author": 8,
+      "message": "The team colors are: purple"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 50,
+      "author": 9,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 51,
+      "author": 9,
+      "message": "The team colors are: blue and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 51,
+      "author": 10,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 52,
+      "author": 9,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 52,
+      "author": 10,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 53,
+      "author": 9,
+      "message": "The team colors are: pink and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 53,
+      "author": 10,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 54,
+      "author": 9,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 54,
+      "author": 10,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 55,
+      "author": 9,
+      "message": "The team colors are: red and blue"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 55,
+      "author": 10,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 56,
+      "author": 10,
+      "message": "The team colors are: blue and yellow"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 56,
+      "author": 11,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 57,
+      "author": 10,
+      "message": "The team colors are: blue and garnet"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 57,
+      "author": 11,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 58,
+      "author": 10,
+      "message": "The team colors are: green and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 58,
+      "author": 11,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 59,
+      "author": 10,
+      "message": "The team colors are: yellow and blue"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 59,
+      "author": 11,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 60,
+      "author": 10,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 60,
+      "author": 11,
+      "message": "The team is from Italy."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 61,
+      "author": 11,
+      "message": "The team colors are: blue"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 61,
+      "author": 12,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 62,
+      "author": 11,
+      "message": "The team colors are: red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 62,
+      "author": 12,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 63,
+      "author": 11,
+      "message": "The team colors are: red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 63,
+      "author": 12,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 64,
+      "author": 11,
+      "message": "The team colors are: blue"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 64,
+      "author": 12,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 65,
+      "author": 11,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 65,
+      "author": 12,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 66,
+      "author": 12,
+      "message": "The team colors are: white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 66,
+      "author": 13,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 67,
+      "author": 12,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 67,
+      "author": 13,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 68,
+      "author": 12,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 68,
+      "author": 13,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 69,
+      "author": 12,
+      "message": "The team colors are: garnet, blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 69,
+      "author": 13,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 70,
+      "author": 12,
+      "message": "The team colors are: black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 70,
+      "author": 13,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 71,
+      "author": 13,
+      "message": "The team colors are: black and red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 71,
+      "author": 14,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 72,
+      "author": 13,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 72,
+      "author": 14,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 73,
+      "author": 13,
+      "message": "The team colors are: blue and burgundy"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 73,
+      "author": 14,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 74,
+      "author": 13,
+      "message": "The team colors are: blue and garnet"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 74,
+      "author": 14,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 75,
+      "author": 13,
+      "message": "The team colors are: red, black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 75,
+      "author": 14,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 76,
+      "author": 14,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 76,
+      "author": 15,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 77,
+      "author": 14,
+      "message": "The team colors are: yellow and green"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 77,
+      "author": 15,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 78,
+      "author": 14,
+      "message": "The team colors are: burgundy and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 78,
+      "author": 15,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 79,
+      "author": 14,
+      "message": "The team colors are: yellow and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 79,
+      "author": 15,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 80,
+      "author": 14,
+      "message": "The team colors are: orange and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 80,
+      "author": 15,
+      "message": "The team is from England."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 81,
+      "author": 15,
+      "message": "The team colors are: blue, red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 81,
+      "author": 16,
+      "message": "The team is from France."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 82,
+      "author": 15,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 82,
+      "author": 16,
+      "message": "The team is from France."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 83,
+      "author": 15,
+      "message": "The team colors are: red, black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 83,
+      "author": 16,
+      "message": "The team is from Netherlands."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 84,
+      "author": 15,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 84,
+      "author": 16,
+      "message": "The team is from Netherlands."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 85,
+      "author": 15,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 85,
+      "author": 16,
+      "message": "The team is from Scotland."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 86,
+      "author": 16,
+      "message": "The team colors are: green and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 86,
+      "author": 17,
+      "message": "The team is from Scotland."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 87,
+      "author": 16,
+      "message": "The team colors are: red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 87,
+      "author": 17,
+      "message": "The team is from Germany."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 88,
+      "author": 16,
+      "message": "The team colors are: yellow and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 88,
+      "author": 17,
+      "message": "The team is from Germany."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 89,
+      "author": 16,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 89,
+      "author": 17,
+      "message": "The team is from the United States."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 90,
+      "author": 16,
+      "message": "The team colors are: purple and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 90,
+      "author": 17,
+      "message": "The team is from the United States."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 91,
+      "author": 17,
+      "message": "The team colors are: blue and yellow"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 91,
+      "author": 18,
+      "message": "The team is from Argentina."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 92,
+      "author": 17,
+      "message": "The team colors are: red, black and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 92,
+      "author": 18,
+      "message": "The team is from Argentina."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 93,
+      "author": 17,
+      "message": "The team colors are: blue and red"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 93,
+      "author": 18,
+      "message": "The team is from Uruguay."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 94,
+      "author": 17,
+      "message": "The team colors are: yellow and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 94,
+      "author": 18,
+      "message": "The team is from Uruguay."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 95,
+      "author": 17,
+      "message": "The team colors are: orange and black"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 95,
+      "author": 18,
+      "message": "The team is from Ukraine."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 96,
+      "author": 18,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 96,
+      "author": 19,
+      "message": "The team is from Ukraine."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 97,
+      "author": 18,
+      "message": "The team colors are: red and yellow"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 97,
+      "author": 19,
+      "message": "The team is from Turkey."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 98,
+      "author": 18,
+      "message": "The team colors are: blue and yellow"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 98,
+      "author": 19,
+      "message": "The team is from Turkey."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 99,
+      "author": 18,
+      "message": "The team colors are: red and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 99,
+      "author": 19,
+      "message": "The team is from Portugal."
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 100,
+      "author": 18,
+      "message": "The team colors are: blue and white"
+    }
+  },
+  {
+    "model": "core.reportresponse",
+    "fields": {
+      "report": 100,
+      "author": 19,
+      "message": "The team is from Portugal."
+    }
+  }
+]

@@ -1,0 +1,42 @@
+.jumbotron {
+	width: 60vw;
+	text-align: center;
+	margin-top: 3vh;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5vh;
+	font-size: 1vw;
+}
+
+.table thead tr {
+	background-color: #999;
+}
+
+.table tbody .table-row:hover {
+	background-color: #BBB;
+	color: #3500FF;
+	cursor: pointer;
+}
+
+.table th a{
+	color: #000560;
+}
+
+.table th a:hover{
+	color: #3500FF;
+	text-decoration: none;
+}
+
+.collapsed-row {
+	padding: 10px;
+}
+
+.collapsed-row td {
+	padding: 0px;
+}
+
+.form-control {
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+}
+

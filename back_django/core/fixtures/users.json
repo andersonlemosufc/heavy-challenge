@@ -1,0 +1,202 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "Amandine",
+      "last_name": "Henry",
+      "email": "amandine@hc.com",
+      "username": "amandine@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "first_name": "Wendie",
+      "last_name": "Renard",
+      "email": "wendie@hc.com",
+      "username": "wendie@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "first_name": "Lucy",
+      "last_name": "Bronze",
+      "email": "lucy@hc.com",
+      "username": "lucy@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "email": "alex@hc.com",
+      "username": "alex@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "first_name": "Christen",
+      "last_name": "Press",
+      "email": "christen@hc.com",
+      "username": "christen@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "first_name": "Iker",
+      "last_name": "Casillas",
+      "email": "iker@hc.com",
+      "username": "iker@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+      "first_name": "Andrés",
+      "last_name": "Iniesta",
+      "email": "andrés@hc.com",
+      "username": "andrés@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+      "first_name": "Magno",
+      "last_name": "Alves",
+      "email": "magno@hc.com",
+      "username": "magno@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 9,
+    "fields": {
+      "first_name": "Saki",
+      "last_name": "Kumagai",
+      "email": "saki@hc.com",
+      "username": "saki@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+      "first_name": "Pernille",
+      "last_name": "Harder",
+      "email": "pernille@hc.com",
+      "username": "pernille@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+      "first_name": "Neymar",
+      "last_name": "Jr",
+      "email": "neymar@hc.com",
+      "username": "neymar@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 12,
+    "fields": {
+      "first_name": "Eden",
+      "last_name": "Hazard",
+      "email": "eden@hc.com",
+      "username": "eden@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 13,
+    "fields": {
+      "first_name": "Ada",
+      "last_name": "Hegerberg",
+      "email": "ada@hc.com",
+      "username": "ada@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+      "first_name": "Marta",
+      "last_name": "da Silva",
+      "email": "marta@hc.com",
+      "username": "marta@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 15,
+    "fields": {
+      "first_name": "Gabriel",
+      "last_name": "Jesus",
+      "email": "gabriel@hc.com",
+      "username": "gabriel@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 16,
+    "fields": {
+      "first_name": "Lionel",
+      "last_name": "Messi",
+      "email": "lionel@hc.com",
+      "username": "lionel@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 17,
+    "fields": {
+      "first_name": "Sergio",
+      "last_name": "Busquets",
+      "email": "sergio@hc.com",
+      "username": "sergio@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 18,
+    "fields": {
+      "first_name": "Cristiano",
+      "last_name": "Ronaldo",
+      "email": "cristiano@hc.com",
+      "username": "cristiano@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 19,
+    "fields": {
+      "first_name": "Kylian",
+      "last_name": "Mbappé",
+      "email": "kylian@hc.com",
+      "username": "kylian@hc.com"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 20,
+    "fields": {
+      "first_name": "Megan",
+      "last_name": "Rapinoe",
+      "email": "megan@hc.com",
+      "username": "megan@hc.com"
+    }
+  }
+]

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html ng-app="heavyChallenge">
+	<head>
+		<meta charset="utf-8">
+		<title>Heavy Challenge</title>
+		<link rel="shortcut icon"  href="img/logo.png">
+		<link rel="stylesheet" type="text/css" href="lib/bootstrap-4.3.1-dist/css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/styles.css" />
+
+	</head>
+	<body ng-controller="heavyChallengeController">
+
+		<div class="jumbotron">
+
+			<h2>Reports</h2> 
+
+			<select class="form-control selectpicker" ng-model="selectedUser" title="All Users" data-live-search="true" ng-options="user.id as user.first_name+' '+user.last_name for user in users | orderBy:'first_name+\' \'+last_name'">
+				<option value="">Select a user to see reports for which he is the author or supervisor:</option>
+			</select>
+
+			<div ng-show="reports.length == 0">
+				<h3> No reports to show. </h3>
+			</div>
+
+			<table class="table table-striped" ng-show="reports.length > 0">
+				<thead>
+					<tr>
+						<th><a href="" ng-click="orderBy('message')">Message </a></th>
+						<th><a href="" ng-click="orderBy('author.first_name+\' \'+author.last_name')">Author </a></th>
+						<th><a href="" ng-click="orderBy('author.email')">Author's Email </a></th>
+					</tr>
+				</thead>
+				<tbody id="accordion-table">
+					<tr ng-repeat-start="report in reports | filter:filterReports(selectedUser) | orderBy:sortCriteria" class="table-row" data-toggle="collapse" data-target="{{'#collapse' + report.id}}" >
+						<td>{{report.message}}</td>
+						<td>{{report.author.first_name + ' ' + report.author.last_name}}</td>
+						<td>{{report.author.email}}</td>
+					</tr>
+					<tr ng-repeat-end class="collapsed-row">
+						<td colspan="3">
+							<div id="{{'collapse' + report.id}}" class="collapse out" data-parent="#accordion-table" >
+								<br>
+
+								<h6><b>Supervisors:</b></h6>
+								<hr>
+								<div ng-repeat="supervisor in report.supervisors">
+									Supervisor: {{supervisor.first_name + ' ' + supervisor.last_name}} ({{supervisor.email}})
+									<hr>
+								</div>
+
+								<h6><b>Responses:</b></h6>
+								<hr>
+								<div ng-repeat="response in report.responses">
+									Author: {{response.author.first_name + ' ' + response.author.last_name}} ({{response.author.email}})
+									<br>
+									Response: {{response.message}}
+									<hr>
+								</div>
+								<br>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+		</div>
+
+		<script type="text/javascript" src="lib/angular-1.7.8/angular.min.js"></script>
+		
+		<script type="text/javascript" src="lib/popper-1.12.9/popper.min.js"></script>
+		<script type="text/javascript" src="lib/jquery-3.2.1/jquery-3.2.1.slim.min.js"></script>
+		<script type="text/javascript" src="lib/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+
+		<script type="text/javascript" src="js/app.js"></script>
+		<script type="text/javascript" src="js/constants/configValue.js"></script>
+		<script type="text/javascript" src="js/services/genericService.js"></script>
+		<script type="text/javascript" src="js/services/userService.js"></script>
+		<script type="text/javascript" src="js/services/reportService.js"></script>
+		<script type="text/javascript" src="js/controllers/heavyChallengeController.js"></script>
+	</body>
+</html>

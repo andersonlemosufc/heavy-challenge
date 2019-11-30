@@ -1,0 +1,1202 @@
+[
+  {
+    "model": "core.report",
+    "pk": 1,
+    "fields": {
+      "message": "Palmeiras team report.",
+      "author": 1,
+      "supervisors": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 2,
+    "fields": {
+      "message": "Corinthians team report.",
+      "author": 1,
+      "supervisors": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 3,
+    "fields": {
+      "message": "São Paulo team report.",
+      "author": 1,
+      "supervisors": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 4,
+    "fields": {
+      "message": "Santos team report.",
+      "author": 1,
+      "supervisors": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 5,
+    "fields": {
+      "message": "Cruzeiro team report.",
+      "author": 1,
+      "supervisors": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 6,
+    "fields": {
+      "message": "Atlético Mineiro team report.",
+      "author": 2,
+      "supervisors": [
+        1,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 7,
+    "fields": {
+      "message": "Grêmio team report.",
+      "author": 2,
+      "supervisors": [
+        1,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 8,
+    "fields": {
+      "message": "Internacional team report.",
+      "author": 2,
+      "supervisors": [
+        1,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 9,
+    "fields": {
+      "message": "Flamengo team report.",
+      "author": 2,
+      "supervisors": [
+        1,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 10,
+    "fields": {
+      "message": "Fluminense team report.",
+      "author": 2,
+      "supervisors": [
+        1,
+        20
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 11,
+    "fields": {
+      "message": "Botafogo team report.",
+      "author": 3,
+      "supervisors": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 12,
+    "fields": {
+      "message": "Vasco team report.",
+      "author": 3,
+      "supervisors": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 13,
+    "fields": {
+      "message": "Ceará team report.",
+      "author": 3,
+      "supervisors": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 14,
+    "fields": {
+      "message": "Fortaleza team report.",
+      "author": 3,
+      "supervisors": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 15,
+    "fields": {
+      "message": "Chapecoense team report.",
+      "author": 3,
+      "supervisors": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 16,
+    "fields": {
+      "message": "Bahia team report.",
+      "author": 4,
+      "supervisors": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 17,
+    "fields": {
+      "message": "Vitória team report.",
+      "author": 4,
+      "supervisors": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 18,
+    "fields": {
+      "message": "Goiás team report.",
+      "author": 4,
+      "supervisors": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 19,
+    "fields": {
+      "message": "Athletico Paranaense team report.",
+      "author": 4,
+      "supervisors": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 20,
+    "fields": {
+      "message": "Sport team report.",
+      "author": 4,
+      "supervisors": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 21,
+    "fields": {
+      "message": "Barcelona team report.",
+      "author": 5,
+      "supervisors": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 22,
+    "fields": {
+      "message": "Real Madrid team report.",
+      "author": 5,
+      "supervisors": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 23,
+    "fields": {
+      "message": "Atlético de Madrid team report.",
+      "author": 5,
+      "supervisors": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 24,
+    "fields": {
+      "message": "Athletic Bilbao team report.",
+      "author": 5,
+      "supervisors": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 25,
+    "fields": {
+      "message": "Valencia team report.",
+      "author": 5,
+      "supervisors": [
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 26,
+    "fields": {
+      "message": "Real Sociedad team report.",
+      "author": 6,
+      "supervisors": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 27,
+    "fields": {
+      "message": "Villareal team report.",
+      "author": 6,
+      "supervisors": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 28,
+    "fields": {
+      "message": "Sevilla team report.",
+      "author": 6,
+      "supervisors": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 29,
+    "fields": {
+      "message": "Levante team report.",
+      "author": 6,
+      "supervisors": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 30,
+    "fields": {
+      "message": "Getafe team report.",
+      "author": 6,
+      "supervisors": [
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 31,
+    "fields": {
+      "message": "Girona team report.",
+      "author": 7,
+      "supervisors": [
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 32,
+    "fields": {
+      "message": "Osasuna team report.",
+      "author": 7,
+      "supervisors": [
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 33,
+    "fields": {
+      "message": "Real Bétis team report.",
+      "author": 7,
+      "supervisors": [
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 34,
+    "fields": {
+      "message": "Real Valladolid team report.",
+      "author": 7,
+      "supervisors": [
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 35,
+    "fields": {
+      "message": "Espanyol team report.",
+      "author": 7,
+      "supervisors": [
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 36,
+    "fields": {
+      "message": "Deportivo La Coruña team report.",
+      "author": 8,
+      "supervisors": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 37,
+    "fields": {
+      "message": "Málaga team report.",
+      "author": 8,
+      "supervisors": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 38,
+    "fields": {
+      "message": "Alavés team report.",
+      "author": 8,
+      "supervisors": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 39,
+    "fields": {
+      "message": "Granada team report.",
+      "author": 8,
+      "supervisors": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 40,
+    "fields": {
+      "message": "Celta de Vigo team report.",
+      "author": 8,
+      "supervisors": [
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 41,
+    "fields": {
+      "message": "Milan team report.",
+      "author": 9,
+      "supervisors": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 42,
+    "fields": {
+      "message": "Internazionale team report.",
+      "author": 9,
+      "supervisors": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 43,
+    "fields": {
+      "message": "Juventus team report.",
+      "author": 9,
+      "supervisors": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 44,
+    "fields": {
+      "message": "Roma team report.",
+      "author": 9,
+      "supervisors": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 45,
+    "fields": {
+      "message": "Lazio team report.",
+      "author": 9,
+      "supervisors": [
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 46,
+    "fields": {
+      "message": "Napoli team report.",
+      "author": 10,
+      "supervisors": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 47,
+    "fields": {
+      "message": "Torino team report.",
+      "author": 10,
+      "supervisors": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 48,
+    "fields": {
+      "message": "Cagliari team report.",
+      "author": 10,
+      "supervisors": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 49,
+    "fields": {
+      "message": "Genoa team report.",
+      "author": 10,
+      "supervisors": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 50,
+    "fields": {
+      "message": "Fiorentina team report.",
+      "author": 10,
+      "supervisors": [
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 51,
+    "fields": {
+      "message": "Atalanta team report.",
+      "author": 11,
+      "supervisors": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 52,
+    "fields": {
+      "message": "Sampdoria team report.",
+      "author": 11,
+      "supervisors": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 53,
+    "fields": {
+      "message": "Palermo team report.",
+      "author": 11,
+      "supervisors": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 54,
+    "fields": {
+      "message": "Udinese team report.",
+      "author": 11,
+      "supervisors": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 55,
+    "fields": {
+      "message": "Bologna team report.",
+      "author": 11,
+      "supervisors": [
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 56,
+    "fields": {
+      "message": "Hellas Verona team report.",
+      "author": 12,
+      "supervisors": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 57,
+    "fields": {
+      "message": "Catania team report.",
+      "author": 12,
+      "supervisors": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 58,
+    "fields": {
+      "message": "Sassuolo team report.",
+      "author": 12,
+      "supervisors": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 59,
+    "fields": {
+      "message": "Chievo team report.",
+      "author": 12,
+      "supervisors": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 60,
+    "fields": {
+      "message": "Parma team report.",
+      "author": 12,
+      "supervisors": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 61,
+    "fields": {
+      "message": "Chelsea team report.",
+      "author": 13,
+      "supervisors": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 62,
+    "fields": {
+      "message": "Liverpool team report.",
+      "author": 13,
+      "supervisors": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 63,
+    "fields": {
+      "message": "Manchester United team report.",
+      "author": 13,
+      "supervisors": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 64,
+    "fields": {
+      "message": "Manchester City team report.",
+      "author": 13,
+      "supervisors": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 65,
+    "fields": {
+      "message": "Arsenal team report.",
+      "author": 13,
+      "supervisors": [
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 66,
+    "fields": {
+      "message": "Tottenham team report.",
+      "author": 14,
+      "supervisors": [
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 67,
+    "fields": {
+      "message": "Everton team report.",
+      "author": 14,
+      "supervisors": [
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 68,
+    "fields": {
+      "message": "Leicester team report.",
+      "author": 14,
+      "supervisors": [
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 69,
+    "fields": {
+      "message": "Aston Villa team report.",
+      "author": 14,
+      "supervisors": [
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 70,
+    "fields": {
+      "message": "Newcastle United team report.",
+      "author": 14,
+      "supervisors": [
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 71,
+    "fields": {
+      "message": "Bournemouth team report.",
+      "author": 15,
+      "supervisors": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 72,
+    "fields": {
+      "message": "Brighton team report.",
+      "author": 15,
+      "supervisors": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 73,
+    "fields": {
+      "message": "Bunrley team report.",
+      "author": 15,
+      "supervisors": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 74,
+    "fields": {
+      "message": "Crystal Palace team report.",
+      "author": 15,
+      "supervisors": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 75,
+    "fields": {
+      "message": "Southampton team report.",
+      "author": 15,
+      "supervisors": [
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 76,
+    "fields": {
+      "message": "Sheffield United team report.",
+      "author": 16,
+      "supervisors": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 77,
+    "fields": {
+      "message": "Norwich City team report.",
+      "author": 16,
+      "supervisors": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 78,
+    "fields": {
+      "message": "West Ham team report.",
+      "author": 16,
+      "supervisors": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 79,
+    "fields": {
+      "message": "Watford team report.",
+      "author": 16,
+      "supervisors": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 80,
+    "fields": {
+      "message": "Wolverhampton team report.",
+      "author": 16,
+      "supervisors": [
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 81,
+    "fields": {
+      "message": "PSG team report.",
+      "author": 17,
+      "supervisors": [
+        15,
+        16
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 82,
+    "fields": {
+      "message": "Monaco team report.",
+      "author": 17,
+      "supervisors": [
+        15,
+        16
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 83,
+    "fields": {
+      "message": "PSV team report.",
+      "author": 17,
+      "supervisors": [
+        15,
+        16
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 84,
+    "fields": {
+      "message": "AJAX team report.",
+      "author": 17,
+      "supervisors": [
+        15,
+        16
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 85,
+    "fields": {
+      "message": "Rangers team report.",
+      "author": 17,
+      "supervisors": [
+        15,
+        16
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 86,
+    "fields": {
+      "message": "Celtic team report.",
+      "author": 18,
+      "supervisors": [
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 87,
+    "fields": {
+      "message": "Bayern Munchen team report.",
+      "author": 18,
+      "supervisors": [
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 88,
+    "fields": {
+      "message": "Borussia Dortmund team report.",
+      "author": 18,
+      "supervisors": [
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 89,
+    "fields": {
+      "message": "New York City team report.",
+      "author": 18,
+      "supervisors": [
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 90,
+    "fields": {
+      "message": "Orlando City team report.",
+      "author": 18,
+      "supervisors": [
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 91,
+    "fields": {
+      "message": "Boca Juniors team report.",
+      "author": 19,
+      "supervisors": [
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 92,
+    "fields": {
+      "message": "River Plate team report.",
+      "author": 19,
+      "supervisors": [
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 93,
+    "fields": {
+      "message": "Nacional team report.",
+      "author": 19,
+      "supervisors": [
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 94,
+    "fields": {
+      "message": "Peñarol team report.",
+      "author": 19,
+      "supervisors": [
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 95,
+    "fields": {
+      "message": "Shakhtar Donetsk team report.",
+      "author": 19,
+      "supervisors": [
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 96,
+    "fields": {
+      "message": "Dynamo Kyiv team report.",
+      "author": 20,
+      "supervisors": [
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 97,
+    "fields": {
+      "message": "Galatasaray team report.",
+      "author": 20,
+      "supervisors": [
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 98,
+    "fields": {
+      "message": "Fenerbahçe team report.",
+      "author": 20,
+      "supervisors": [
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 99,
+    "fields": {
+      "message": "Benfica team report.",
+      "author": 20,
+      "supervisors": [
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "model": "core.report",
+    "pk": 100,
+    "fields": {
+      "message": "Porto team report.",
+      "author": 20,
+      "supervisors": [
+        18,
+        19
+      ]
+    }
+  }
+]
